@@ -1,0 +1,27 @@
+.span{
+	float: left;
+	width: 25%;
+	height: 100px;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.pink{
+	background-color: pink;
+}
+
+.fondo{
+	width: 50%;
+	height: intrinsic;
+	border: 3px solid grey;
+}
+
+.over{
+	overflow: auto;
+}
